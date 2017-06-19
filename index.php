@@ -1,6 +1,6 @@
 <?php
 
-//Upload a blank cookie.txt to the same directory as this file with a CHMOD/Permission to 777
+]
 function login($url,$data){
     $fp = fopen("cookie.txt", "w");
     fclose($fp);
